@@ -1,6 +1,6 @@
 # Sign-Language
 Sign Language Digits Classification
 
-Used Simple Logistic Regression to Classify the images.
+Used Simple Logistic Regression and Convoluton Neural Network to Classify the images.
 
-<img src="output.gif">
+<img src="SimpleLogisticRegression.gif">
